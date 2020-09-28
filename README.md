@@ -1,1 +1,1 @@
-Jmeter-OES3.0
+Jmeter-OES3.0 -test
